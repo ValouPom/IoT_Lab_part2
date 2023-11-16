@@ -1,0 +1,10 @@
+[submodule "knxnet"]
+    path = knxnet
+    url = https://gitedu.hesge.ch/adrienma.lescourt/knxnet_iot.git
+    update = merge
+    branch = master
+[submodule "actuasim"]
+    path = actuasim
+    url = https://gitedu.hesge.ch/adrienma.lescourt/actuasim_iot.git
+    update = merge
+    branch = master

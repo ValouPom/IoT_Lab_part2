@@ -1,0 +1,2 @@
+*.py.* gitlab-language=python
+knx_client_script.py.complete filter=git-crypt diff=git-crypt
